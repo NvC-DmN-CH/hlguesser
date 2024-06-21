@@ -1,0 +1,19 @@
+
+body
+{
+	background-color: var(--background-main)
+}
+
+.unselectable {
+  -webkit-user-select: none; /* Safari */
+  user-select: none;
+}
+
+
+.text-title
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 12vw;
+	letter-spacing: 2.5rem;
+	color: var(--text);
+}
